@@ -51,8 +51,6 @@ dotnet restore
 dotnet run
 ```
 
-*(Adjust folder names as per your project structure)*
-
 ### Configuration
 
 - Copy `.env.example` to `.env` in both frontend and backend directories and update environment variables as needed.
@@ -76,5 +74,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Built using [TypeScript](https://www.typescriptlang.org/), [ASP.NET](https://dotnet.microsoft.com/apps/aspnet), and modern web technologies.
 
 ---
-
-Feel free to customize this README with more specific details about your project structure, features, and configuration!
